@@ -29,4 +29,4 @@ This project is licensed under the **MIT License**.
 
 For any inquiries, reach out to **Amal Rekshin** via:
 - **GitHub:** [@Amal-Rekshin](https://github.com/Amal-Rekshin)
-- **Email:** [My Email](antonyamalrekshin@gmail.com)
+- **Email:** [@Amal Rekshin](antonyamalrekshin@gmail.com)
